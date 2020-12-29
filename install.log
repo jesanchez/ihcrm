@@ -1,0 +1,71 @@
+
+2020-12-29 19:02:43...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:02:54...Begin System Check Process *************
+2020-12-29 19:02:54...XML Parsing Support Found
+2020-12-29 19:02:54...JSON Parsing Support Found
+2020-12-29 19:02:54...MBString Support Found
+2020-12-29 19:02:54...ZIP Support Found
+2020-12-29 19:02:54.../custom directory and subdirectory check passed
+2020-12-29 19:02:54...cache directory and subdirectory check passed
+2020-12-29 19:02:54.../module  directory and subdirectory check passed
+2020-12-29 19:02:54.../upload directory check passed
+2020-12-29 19:02:54.../zip check passed
+2020-12-29 19:02:54...PCRE version check passed
+2020-12-29 19:02:54...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:02:54...php.ini location found. /usr/local/etc/php/7.3/php.ini
+2020-12-29 19:02:54...Outputting HTML for System check
+2020-12-29 19:02:54...No Errors were found *************
+2020-12-29 19:02:54...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:04:46...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:04:52...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:04:56...Begin System Check Process *************
+2020-12-29 19:04:56...XML Parsing Support Found
+2020-12-29 19:04:56...JSON Parsing Support Found
+2020-12-29 19:04:56...MBString Support Found
+2020-12-29 19:04:56...ZIP Support Found
+2020-12-29 19:04:56.../custom directory and subdirectory check passed
+2020-12-29 19:04:56...cache directory and subdirectory check passed
+2020-12-29 19:04:56.../module  directory and subdirectory check passed
+2020-12-29 19:04:56.../upload directory check passed
+2020-12-29 19:04:56.../zip check passed
+2020-12-29 19:04:56...PCRE version check passed
+2020-12-29 19:04:56...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:04:56...php.ini location found. /usr/local/etc/php/7.3/php.ini
+2020-12-29 19:04:56...Outputting HTML for System check
+2020-12-29 19:04:56...No Errors were found *************
+2020-12-29 19:04:56...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:05:05...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:05:33...Begin System Check Process *************
+2020-12-29 19:05:33...XML Parsing Support Found
+2020-12-29 19:05:33...JSON Parsing Support Found
+2020-12-29 19:05:33...MBString Support Found
+2020-12-29 19:05:33...ZIP Support Found
+2020-12-29 19:05:33.../custom directory and subdirectory check passed
+2020-12-29 19:05:33...cache directory and subdirectory check passed
+2020-12-29 19:05:33.../module  directory and subdirectory check passed
+2020-12-29 19:05:33.../upload directory check passed
+2020-12-29 19:05:33.../zip check passed
+2020-12-29 19:05:33...PCRE version check passed
+2020-12-29 19:05:33...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:05:33...php.ini location found. /usr/local/etc/php/7.3/php.ini
+2020-12-29 19:05:33...Outputting HTML for System check
+2020-12-29 19:05:33...No Errors were found *************
+2020-12-29 19:05:33...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:13:31...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:13:37...Begin System Check Process *************
+2020-12-29 19:13:37...XML Parsing Support Found
+2020-12-29 19:13:37...JSON Parsing Support Found
+2020-12-29 19:13:37...MBString Support Found
+2020-12-29 19:13:37...ZIP Support Found
+2020-12-29 19:13:37.../custom directory and subdirectory check passed
+2020-12-29 19:13:37...cache directory and subdirectory check passed
+2020-12-29 19:13:37.../module  directory and subdirectory check passed
+2020-12-29 19:13:37.../upload directory check passed
+2020-12-29 19:13:37.../zip check passed
+2020-12-29 19:13:37...PCRE version check passed
+2020-12-29 19:13:37...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:13:37...php.ini location found. /usr/local/etc/php/7.3/php.ini
+2020-12-29 19:13:37...Outputting HTML for System check
+2020-12-29 19:13:37...No Errors were found *************
+2020-12-29 19:13:37...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2020-12-29 19:13:52...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
